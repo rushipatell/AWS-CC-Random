@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1597.0",
+    "nanoid": "^5.0.7"
+  }
+}
